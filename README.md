@@ -5,7 +5,7 @@ These are a few of my favorite things:
 - Carly Rae Jepsen
 - Dogs
 - Raindrops on roses
-- Whiskers on kittens
+- Whiskers on hamsters
 - Bright copper kettles
 - Warm woolen mittens
 - Not editing directly on GitHub
